@@ -1,6 +1,8 @@
 # mcemGLM
 Maximum Likelihood Estimation for Generalized Linear Mixed Models Use mcemGLM With (In) R Software
 
+https://www.youtube.com/watch?v=7GGa742h46w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
